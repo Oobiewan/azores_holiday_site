@@ -1,0 +1,49 @@
+#hero {
+    height: 400px;
+    background: url('./images/saomiguel_zsolt-cserna-unsplash.jpg') no-repeat center center;
+    background-size: cover;
+    color: rgb(66, 114, 84);
+    text-align: center;
+    padding: 15 0 0 0;
+    font-family: "Josefin Sans";
+    font-size:x-large;
+    font-weight: 100;
+    text-shadow: 0px 2px 4px black;
+}
+
+h2,h3 {
+    text-align: center;
+    font-family: "Josefin Sans";
+}
+
+p {
+    font-family: "Josefin Sans";
+}
+
+body {
+    margin: 0;
+}
+
+title {
+    background-color:;
+}
+
+.island-div  {
+    margin: 5 0 0 0;
+    background-color: azure;
+    padding: 10 10 25 10;
+    border: 1px solid green;
+}
+
+.image-triplet {
+    margin-left: ;
+    display: flex;
+    justify-content: space-around;
+}
+
+.location-img {
+    width: 300px;
+    box-shadow: 5px 5px 5px black;
+    border: 2px solid brown;
+    border-radius: 2px ;
+}
