@@ -9,6 +9,8 @@
     font-size:x-large;
     font-weight: 100;
     text-shadow: 0px 2px 4px black;
+    box-shadow: 1px 1px 4px black;
+    border: 5px solid azure;
 }
 
 h2,h3 {
@@ -28,15 +30,12 @@ body {
     margin-right: auto;
 }
 
-title {
-    background-color:;
-}
-
 .island-div  {
-    margin: 5 0 0 0;
+    margin: 5px 0 0 0;
     background-color: azure;
     padding: 10 10 25 10;
-    border: 1px solid green;
+    /* border: 1px solid green; */
+    box-shadow: 1px 1px 4px black;
 }
 
 .image-triplet {
@@ -48,7 +47,7 @@ title {
 
 .location-img {
     width: 300px;
-    box-shadow: 5px 5px 5px black;
+    box-shadow: 4px 4px 5px black;
     border: 2px solid brown;
     border-radius: 2px ;
     margin: 10px 0;
